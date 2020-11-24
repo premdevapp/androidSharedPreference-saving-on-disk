@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShredPre</string>
+    <string name="Message">Enter Message</string>
+    <string name="button">Save</string>
+</resources>
